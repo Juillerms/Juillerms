@@ -3,6 +3,8 @@
 - 🔭 I’m looking for a first job in TI
 - 📘 Studying Docker and JS
 - 🗣️ I speak Portuguese (fluently) and English (almost fluent).
+- [Acesse meu currículo em PDF](https://github.com/SeuNomeDeUsuario/SeuRepositorio/raw/main/Curr%C3%ADculo%20Profissional%20%281%29.pdf)
+
 
 # About Me 
 
