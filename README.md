@@ -6,7 +6,7 @@
 - [Acesse meu currículo (PT-BR)](https://github.com/Juillerms/Juillerms/raw/main/Curr%C3%ADculo%20Profissional%20%281%29.pdf)
 
 
-# About Me 
+# Technologies and Tools
 
 [![Skills](https://skillicons.dev/icons?i=figma,docker,bootstrap,vscode,postgres,github,mysql,eclipse,pycharm,css,html,django,git,java,js)](https://skillicons.dev)
 
