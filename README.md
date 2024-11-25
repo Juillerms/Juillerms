@@ -5,6 +5,8 @@
 - 🗣️ I speak Portuguese (fluently) and English (almost fluent).
 - [Acesse meu currículo (PT-BR)](https://github.com/Juillerms/Juillerms/raw/main/Curr%C3%ADculo%20Profissional%20%281%29.pdf)
 
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:guilopes2108@gmail.com)
+
 
 # Technologies and Tools
 
